@@ -2,6 +2,13 @@
 
 [What is this?][]
 
+## Jul 2025
+
+- Yet another reorg
+- Got Nintendo Switch 2 but no time to play
+- Yosemite camping trip
+- Green ranked player in Brawl Stars
+
 ## Mar 2024
 
 - Learn how Google Search Console works

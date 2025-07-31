@@ -1,9 +1,12 @@
 # Default state for all rules
 default: true
 
+# Disable line length rule (MD013)
+MD013: false
+
 # MD025/single-title/single-h1 : Multiple top-level headings in the same document : https://github.com/DavidAnson/markdownlint/blob/v0.32.1/doc/md025.md
 MD025:
   # Heading level
   level: 1
   # RegExp for matching title in front matter
-  front_matter_title: ''
+  front_matter_title: ""
