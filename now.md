@@ -2,6 +2,13 @@
 
 [What is this?][]
 
+## Feb 2026
+
+- Navigating my first career impact
+- Embracing a new hobby in fish keeping
+- Exercising 5 days a week
+- Figuring out my next chapter
+
 ## Jul 2025
 
 - Yet another reorg

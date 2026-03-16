@@ -1,8 +1,8 @@
 # About
 
-Hi, I’m Ark! After an amazing run at [GoodRx][], I recently started a new chapter at [Block][] as a data engineer. Before that, I also had the chance to work with some awesome folks at [Truework][] and [SimpleLegal][].
+Hi, I’m Ark! After an amazing run at [GoodRx][], I recently wrapped up my time at [Block][] and am currently exploring my next chapter. Before that, I also had the chance to work with some awesome folks at [Truework][] and [SimpleLegal][].
 
-Outside of work, I’m usually chasing my kid around, planning our next trip, or squeezing in a late-night Switch session. I’m also a bit obsessed with my Peloton lately — trying (and mostly failing) to build a consistent daily workout habit.
+Outside of work, I’m usually chasing my kid around, tending to my planted aquarium, or planning our next trip. I’m also a bit obsessed with my Peloton lately and have finally built a consistent workout habit.
 
 This blog is where I jot down thoughts, notes, and things I find interesting along the way. If you ever want to connect, feel free to say hi on [LinkedIn][] or shoot me a note at arkliu [at] outlook.com.
 
